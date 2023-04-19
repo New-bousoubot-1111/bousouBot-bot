@@ -1,0 +1,9 @@
+{
+    "prefix": "b.",
+    "color": "0x00ffee",
+    "owners": [800255014463078462],
+    "modules": ["admin","aki","command","earthquake","owners","tasks"],
+    "errorlog": "1041001428170326138",
+    "search_max": "15",
+    "lang": "ja"
+}

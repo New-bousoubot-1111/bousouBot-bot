@@ -1,0 +1,16 @@
+{
+	"prefix":"b.",
+	"color":"0x00ffee",
+  "owners":[800255014463078462],
+  "notice":"botが復活",
+  "commands_list":[
+"help - 現在使っているコマンド\n",
+"kick,","ban - ユーザーをkick,banできる\n",
+"clear [数字],clear_all - メッセージを削除できる\n",
+"eew,","eew2 - 地震情報を表示する\n",
+"item [name] - Fortniteのアイテムを表示する\n",
+"aki - アキネーターができる",
+"eew_setup,eew_remove - 地震情報を送信する設定ができる"
+],
+  "server":"https://discord.gg/3VFpmSEugD"
+}

@@ -1,0 +1,4 @@
+nextcord
+colorama
+Pillow
+Levenshtein
